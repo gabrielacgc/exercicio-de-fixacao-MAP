@@ -1,0 +1,14 @@
+// Atividade Map 
+
+// Criar um dicionário tradutor 
+
+
+// Em html -> Criar um h1 
+
+// Em JS -> Criar um input, map, 
+
+// criar uma caixa que recebe o resultado da tradução 
+
+
+// fazer um comparativo 
+

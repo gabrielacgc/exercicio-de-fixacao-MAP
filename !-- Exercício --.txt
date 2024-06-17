@@ -1,0 +1,35 @@
+<!-- Exercício -->
+
+<!-- Enunciado: Tendo como dados de entrada o nome, a altura e o sexo (M ou F) de uma pessoa, calcule e mostre seu peso ideal, utilizando as seguintes formulas 
+- para sexo masculino: peso ideal = (72.7 * altura) - 58
+- para sexo feminino: peso ideal = (62.1 * altura ) - 44.7 
+ -->
+
+
+Passo 1 - Criar um input que receba os dados do usuário 
+
+
+let nome = input('Digite seu nome'); 
+
+
+Passo 2 - Criar um input que receba a altura do usuário
+
+let altura = ParseFloat('Insira sua altura');
+
+Passo 3 - Criar um input que receba o sexo do usuário feminino ou Masculino
+
+let sexo = ('Insira seu sexo M / F); 
+
+
+Passo 4 - Criar uma variavel vazia para peso ideal 
+
+let pesoIdealMas =  (72.7 * altura) - 58
+
+let pesoIdealFem = (62.1 * altura ) - 44.7 
+
+
+Passo 4 = Criar um if com a formula 
+
+if (pesoIdealMas == M-
+
+
